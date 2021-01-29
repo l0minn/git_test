@@ -1,0 +1,2 @@
+
+This is a text file to test the way git pushes directories with files and how url is accessed within a repo.

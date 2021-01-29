@@ -1,2 +1,4 @@
 
 This is a git test text file.
+
+This is an update to test how git add -u works.
